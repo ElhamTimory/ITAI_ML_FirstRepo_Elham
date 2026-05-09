@@ -2,16 +2,21 @@
 
 This repository contains my work for ITAI 1371. It includes machine learning labs, class projects, and practice files. 
 
+## About Me
+My name is Elham, and I am studying machine learning and artificial intelligence. I am interested in learning how data can be used to build models, make predictions, and find patterns.
+
 ## Repository Contents
 ### Labs-ITAI
 This folder contains my lab assignments for ITAI 1371. These labs cover different parts of the machine learning process, including loading data, exploring datasets, preparing features, training models, evaluating results, and improving model performance. 
-These lab also include topics such as supervised learning, unsupervised learning, regression, classification, model evaluation, hyperparameter tuning, AutoML, fairness in machine learning, and machine learning pipelines. 
+These labs also include topics such as supervised learning, unsupervised learning, regression, classification, model evaluation, hyperparameter tuning, AutoML, fairness in machine learning, and machine learning pipelines. 
 
 ### DeepShelf Midterm Project
 The DeepShelf project was my midterm project for ITAI 1371. This project focused on building a book recommendation system using machine learning. The goal was to predict whether a user would like a book based on rating behavior and book information.
+In this project, I worked with book rating data and used classification methods to predict user preferences. 
 
 ### Student Segmentation Final Project
 The Student Segmentation project was my final project for ITAI 1371. This project focused on using unsupervised machine learning to group students based on their academic behavior, performance, and lifestyle patterns.
+For this project, I used clustering to find groups of students with similar characteristics. I worked with features such as study time, failures, absences, grades, and social behavior. This project helped me understand how unsupervised learning can find patterns in data without using a target label. 
 
 ## What I Learned
 Through these labs and projects, I learned how to work with data, build machine learning models, and evaluate model results. I also learned how to use machine learning for both prediction and grouping tasks. 
